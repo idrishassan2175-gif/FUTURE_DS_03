@@ -11,12 +11,14 @@ I analyzed user behavior across the marketing funnel to identify drop-offs and i
 Power BI, Excel
 
 🔍 Key Insights
+
 Most users drop at the initial view stage
 Strong conversion from cart to purchase
 Few channels/products drive majority of conversions
 High traffic does not always translate to sales
 
 💡 Recommendations
+
 Optimize landing pages to improve first-stage conversion
 Retarget users who drop early
 Focus on high-performing channels/products
