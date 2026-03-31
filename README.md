@@ -25,6 +25,7 @@ Focus on high-performing channels/products
 Improve funnel efficiency at weak stages
 
 🚀 Task 3 Deliverables
+
 Cleaned and structured funnel data
 Analyzed conversion rates at each stage
 Identified key drop-off points
